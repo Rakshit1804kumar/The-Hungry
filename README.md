@@ -3,7 +3,7 @@
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://rakshit1804kumar.github.io/The-Hungry/)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Rakshit1804kumar/The-Hungry)  
 [![Last Commit](https://img.shields.io/github/last-commit/Rakshit1804kumar/The-Hungry)]()  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+ 
 
 A modern and responsive food website where users can explore meals, view menus, and discover restaurants. Built using HTML, CSS, and JavaScript with a focus on clean design and user experience.
 
@@ -12,7 +12,7 @@ A modern and responsive food website where users can explore meals, view menus, 
 ## 📸 Screenshot
   
 
-![The Hungry Screenshot](https://github.com/Rakshit1804kumar/The-Hungry/raw/main/screenshots/screenshot.png)
+![The Hungry Screenshot](https://github.com/Rakshit1804kumar/The-Hungry/blob/main/Screenshot.png)
 
 ---
 
