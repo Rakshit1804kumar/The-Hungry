@@ -1,9 +1,18 @@
 # The Hungry 🍽️
+<p align="center">
+  <a href="https://rakshit1804kumar.github.io/The-Hungry/">
+    <img src="https://img.shields.io/badge/Live-Demo-blue" alt="Live Demo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Rakshit1804kumar/The-Hungry">
+    <img src="https://img.shields.io/badge/GitHub-Repository-black?logo=github" alt="GitHub Repo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Rakshit1804kumar/The-Hungry/commits/main">
+    <img src="https://img.shields.io/github/last-commit/Rakshit1804kumar/The-Hungry" alt="Last Commit" />
+  </a>
+</p>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://rakshit1804kumar.github.io/The-Hungry/)  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Rakshit1804kumar/The-Hungry)  
-[![Last Commit](https://img.shields.io/github/last-commit/Rakshit1804kumar/The-Hungry)]()  
- 
 
 A modern and responsive food website where users can explore meals, view menus, and discover restaurants. Built using HTML, CSS, and JavaScript with a focus on clean design and user experience.
 
